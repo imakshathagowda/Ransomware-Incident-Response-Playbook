@@ -81,3 +81,8 @@ Cybersecurity Professional | Threat Response Specialist
 
 ---
 
+## 🏷️ Tags
+
+`#ransomware` `#incident-response` `#cybersecurity` `#infosec` `#playbook`  
+`#security-operations` `#edr` `#soc` `#blue-team` `#forensics`  
+`#malware-response` `#threat-detection` `#log-analysis` `#siem`  
