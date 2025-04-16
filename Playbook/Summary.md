@@ -11,4 +11,4 @@ This summary highlights key phases and responsibilities defined in the Ransomwar
 5. **User Action**: Educate users and guide reporting behavior.
 6. **Help Desk Response**: Guide support staff for ticketing, recovery, feedback.
 
-> See the full PDF for details in `Playbook/Ransomware_Playbook.pdf`
+> See the full PDF for details in `Playbook/RANSOMWARE PLAYBOOK.pdf`
